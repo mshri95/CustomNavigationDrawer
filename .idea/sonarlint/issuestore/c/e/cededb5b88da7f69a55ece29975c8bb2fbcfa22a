@@ -1,0 +1,26 @@
+
+Bsquid:S1659"&Declare "appbarRL" on a separate line.(’’ÜÉ8¤ĞğÙ,
+Asquid:S1659"%Declare "centerY" on a separate line.(ú£Ÿ—8¤ĞğÙ,
+Osquid:S1068".Remove this unused "currentPos" private field.(ÿıîÕüÿÿÿÿ8¤ĞğÙ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛïÈÅüÿÿÿÿ8¤ĞğÙ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŞÑé¶úÿÿÿÿ8¤ĞğÙ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÒÙü8¤ĞğÙ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§ø›½8¤ĞğÙ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°Ä®šùÿÿÿÿ8¤ĞğÙ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îÜ¦®8¤ĞğÙ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õƒ¯«8¤ĞğÙ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Î¸³ğúÿÿÿÿ8¤ĞğÙ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²õ„»ûÿÿÿÿ8¤ĞğÙ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è…äÔøÿÿÿÿ8¤ĞğÙ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„„Ü¬ÿÿÿÿÿ8¤ĞğÙ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ8¤ĞğÙ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Äã·8¤ĞğÙ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(çº€8¤ĞğÙ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îŠÍÕşÿÿÿÿ8¤ĞğÙ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–¥ÿÍ8¤ĞğÙ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿÌº«8¤ĞğÙ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡Ø«Öıÿÿÿÿ8¤ĞğÙ,
+_squid:S2583"CChange this condition so that it does not always evaluate to "true"(¡Ù€8¤ĞğÙ,
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(¡Ù€8¤ĞğÙ,
+Nsquid:S1135"2Complete the task associated to this TODO comment.(Ü©Ã8¤ĞğÙ,
